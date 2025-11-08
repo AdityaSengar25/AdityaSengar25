@@ -1,7 +1,7 @@
 #  Welcome to my GitHub
 
 <div align="center">
-<img hight="400" width="1200" alt="GIF" align="center" src="/PixeLɑnd ◇.gif">
+<img hight="400" width="1200" alt="GIF" align="center" src="/Githubpixelart.gif">
 </div>
 
 <br/>
