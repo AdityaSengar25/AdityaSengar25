@@ -9,7 +9,7 @@
 
 
 <h2> Hi, I'm Aditya Sengar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3phc2k2czU0NHVrd2R6N3p5MjFxOHNzN2QxbTdmdXc5aGh4bmgxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L90J1FTEcNYU8/giphy.gif" width="230"/>
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG03aDJtYzg0djVsdXV5bmVmcmFpbThhMmJkY3lyaWh2NjI1NHRobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xnSPVyxhkGZS3VP7eA/giphy.gif" width="230"/>
 
 [![Linkedin: aditya-sengar-dev](https://img.shields.io/badge/-aditya--sengar--dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-sengar-dev/)](https://www.linkedin.com/in/aditya-sengar-dev/)
 [![Twitter: adityasengar_in](https://img.shields.io/badge/-@adityasengar_in_-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/adityasengar_in)](https://x.com/adityasengar_in)
