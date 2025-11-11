@@ -15,6 +15,7 @@
 [![Twitter: adityasengar_in](https://img.shields.io/badge/-@adityasengar_in_-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/adityasengar_in)](https://x.com/adityasengar_in)
 [![LeetCode: steeleye](https://img.shields.io/badge/-steeleye-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/steeleye/)](https://leetcode.com/u/steeleye/)
 [![GitHub AdityaSengar25](https://img.shields.io/github/followers/AdityaSengar25?label=follow&style=social)](https://github.com/AdityaSengar25)
+)
 
 **3rd Year B.Tech CS (AI/ML) Student** 
 
